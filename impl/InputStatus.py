@@ -1,5 +1,6 @@
 from enum import Enum
 
+
 class InputStatusEnum(Enum):
     NOTHING = 1
     SINGLE_PRESS = 2
